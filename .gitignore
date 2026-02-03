@@ -1,7 +1,7 @@
 # directory
 __pycache__
 .venv
-files~
+files
 
 # file
 .env
